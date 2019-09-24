@@ -5,6 +5,7 @@ public class FirstRep {
 		// TODO Auto-generated method stub
 System.out.println("kill");
 System.out.println("bem");
+System.out.println("please");
 	}
 
 }
